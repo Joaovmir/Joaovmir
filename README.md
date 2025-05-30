@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaovmir&label=Profile%20views&color=0e75b6&style=flat" alt="joaovmir" /> </p>
 
-- 🔭 Atualmente trabalho como instrutor de ciência de dados na **Alura**
+- 🔭 Atualmente trabalho como cientista de dados
 
 - 🌱 Estou constantemente aprendendo sobre **ciência de dados, machine learning e IA.**
 
 - 👨‍💻 Todos os meus projetos estarão aqui no Github [https://github.com/Joaovmir](https://github.com/Joaovmir)
+
+- 📹 Produzo cursos relacionados a ciência de dados, machine learning e IA para a Alura
 
 - 📝 Escrevo artigos para a Alura [https://www.alura.com.br/artigos/data-science](https://www.alura.com.br/artigos/data-science)
 
